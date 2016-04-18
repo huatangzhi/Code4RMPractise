@@ -68,7 +68,7 @@ def Popularity(train, test, N):
     ret /= n * 1.0
     return ret
 
-print 'fuck'
+print 'fuck 22 '
 
 
 
